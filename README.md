@@ -5,6 +5,7 @@
 - Strogonoff de frango
 - Pizzas
 - Croissant
+- Torta de frango
 - Outros
 
 #### Otávio Gonçalves
